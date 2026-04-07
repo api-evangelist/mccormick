@@ -1,7 +1,11 @@
 aid: mccormick
-url: https://raw.githubusercontent.com/api-evangelist/mccormick/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mccormick/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.mccormick.com
+description: >-
+  McCormick spices and products have been kitchen must-haves since 1889. Learn about
+  seasoning and cuisine while discovering tons of delicious recipes today.
