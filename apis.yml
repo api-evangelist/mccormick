@@ -17,6 +17,8 @@ tags:
   - Spices
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mccormick
   - type: Website
     url: https://www.mccormick.com
 maintainers:
