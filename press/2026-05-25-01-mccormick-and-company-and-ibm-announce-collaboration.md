@@ -1,7 +1,9 @@
 ---
 title: McCormick & Company and IBM Announce Collaboration ...
 url: https://ir.mccormick.com/news-releases/news-release-details/mccormick-company-and-ibm-announce-collaboration-pioneering-use
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"McCormick" press release artificial intelligence'
 position: 1
 source: serpapi-google

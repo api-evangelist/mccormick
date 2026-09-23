@@ -1,7 +1,9 @@
 ---
 title: McCormick & Company and IBM Announce Collaboration ...
 url: https://www.prnewswire.com/news-releases/mccormick--company-and-ibm-announce-collaboration-pioneering-the-use-of-artificial-intelligence-in-flavor-and-food-product-development-300788878.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"McCormick" press release artificial intelligence'
 position: 3
 source: serpapi-google
