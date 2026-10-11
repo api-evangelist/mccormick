@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "mccormick",
+    "captured_at": "2026-10-11T190730",
+    "source_url": "https://www.mccormick.com",
+    "source_type": "Website",
+    "file": "mccormick-2026-10-11T190730.png",
+    "bytes": 793102,
+    "capture": "playwright-local"
+  }
+]
